@@ -1,4 +1,7 @@
 ### Hi there 👋
+ * Specializing as an AI instructor,
+ * Sharing programming code from diverse domains on GitHub,
+ * I'm thankful for all open-source code that enriches my learning journey.
 
 <!--
 **ladofa/ladofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
